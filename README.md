@@ -1,1 +1,3 @@
 # Minesweeper
+
+Minesweeper in Java
